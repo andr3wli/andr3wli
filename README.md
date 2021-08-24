@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+## 📖 About me
+
+- 🎓 I'm pursuing a PhD at the University of British Columbia (2021~), with BA (2020) from UBC
+- 👨‍💻 Spending some fun time working with UBC Ecoscope
+- 🚀 Into running, golfing, and gardening
+- 👀 Visit [https://www.andrewcli.com](www.andrewcli.com) for more info
+
 
 <!--
 **andr3wli/andr3wli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
