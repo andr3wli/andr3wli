@@ -8,7 +8,7 @@
 - 👨‍💻 Spending some fun time working with [UBC Ecoscope](http://ecoscope.ubc.ca)
 - 👨‍🏫 Teaching assistant for [UBC Master of Data Science](https://masterdatascience.ubc.ca) and [UBC Psychology](https://psych.ubc.ca)
 - 🚀 Into running, golfing, and gardening
-- 👀 Visit [https://www.andrewcli.com](www.andrewcli.com) for more info
+- 👀 Visit [www.andrewcli.com](https://www.andrewcli.com) for more info
 
 
 <!--
