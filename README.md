@@ -4,10 +4,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/andr3wli/andr3wli/blob/f2d22fff0bd6085afa86792e3a476b652f5a5faf/coding.gif" width="350" height="270" />
 
-- 🎓 I'm pursuing my MA at the University of British Columbia (2021~), with BA (2020) from UBC
-- 👨‍💻 Spent some fun time working with BC Gov, ECOSCOPE, UBC GSS, CGR
-- 🚀 Into running, golfing, and gardening
-- 👀 Visit [www.andrewcli.com](https://www.andrewcli.com) for more info
+- Pharmacoepidemiology @ UBC
+- Senior Economist @ Ministry of Health
+- Academic Assistant @ UBC Library Research Commons
+- [www.andrewcli.com](https://www.andrewcli.com)
 
 
 <!--
