@@ -1,8 +1,6 @@
 # Hi there! 
 
-### 📖 About me
-
-<img align="right" alt="GIF" src="https://github.com/andr3wli/andr3wli/blob/f2d22fff0bd6085afa86792e3a476b652f5a5faf/coding.gif" width="350" height="270" />
+### About me
 
 - Pharmacoepidemiology @ UBC
 - Senior Economist @ Ministry of Health
